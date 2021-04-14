@@ -9,6 +9,8 @@ java -cp "target/test-1.0-SNAPSHOT-jar-with-dependencies.jar" com.batch.Main
 
 It will generate out.py - you can put this file to airflow Dag folder to execute.
 
+![alt text](https://github.com/harishb2k/images/blob/master/airflow_auto_1.png?raw=true)
+![alt text](https://github.com/harishb2k/images/blob/master/airflow_auto_2.png?raw=true)
 
 #### Graph Json
 The file /src/main/resources/graph.json contains the json of this graph. You can edit to change it.
